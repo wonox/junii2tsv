@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-09-07T06:49:02Z</responseDate>
+<request verb="ListRecords" set="hdl_2309_58475" metadataPrefix="junii2">https://ir.u-gakugei.ac.jp/dspace-oai/request</request>
+<ListRecords>
+<record>
+<header><identifier>oai:ir.u-gakugei.ac.jp:2309/58510</identifier><datestamp>2009-04-28T01:45:02Z</datestamp><setSpec>hdl_2309_58475</setSpec></header><metadata>
+<meta xmlns="http://ju.nii.ac.jp/junii2" xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://ju.nii.ac.jp/junii2 http://www.nii.ac.jp/irp/info/junii2.xsd">
+<title>(主)自閉症を中心とした発達障害児における要求機能を持つ問題行動のメカニズム解明とその改善法</title><creator>小笠原, 恵</creator>
+<creator>東京学芸大学大学院連合学校教育学研究科教育学専攻発達支援講座</creator>
+<dateofissued>1998</dateofissued>
+<type>学位論文(Thesis)</type>
+<NIItype>Thesis or Dissertation</NIItype>
+<type>text</type>
+<format>application/pdf</format>
+<URI>http://hdl.handle.net/2309/58510</URI>
+<fullTextURL>http://ir.u-gakugei.ac.jp/bitstream/2309/58510/1/10237.pdf</fullTextURL><language>jpn</language><textversion>publisher</textversion></meta></metadata>
+</record>
+<record><header><identifier>oai:ir.u-gakugei.ac.jp:2309/58572</identifier><datestamp>2009-04-28T01:45:02Z</datestamp><setSpec>hdl_2309_58475</setSpec></header><metadata><meta xmlns="http://ju.nii.ac.jp/junii2" xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://ju.nii.ac.jp/junii2 http://www.nii.ac.jp/irp/info/junii2.xsd">
+<title>夏季の関東地方における強雨に関する気候学的研究</title>
+<creator>澤田, 康徳</creator>
+<creator>東京学芸大学大学院連合学校教育学研究科(東京学芸大学)学校教育学専攻社会系教育講座</creator>
+<dateofissued>2005-03</dateofissued>
+<type>学位論文(Thesis)</type>
+<NIItype>Thesis or Dissertation</NIItype>
+<type>text</type>
+<format>application/pdf</format>
+<URI>http://hdl.handle.net/2309/58572</URI>
+<fullTextURL>http://ir.u-gakugei.ac.jp/bitstream/2309/58572/1/10238.pdf</fullTextURL>
+<language>jpn</language>
+</meta></metadata>
+</record>
+<record><header><identifier>oai:ir.u-gakugei.ac.jp:2309/97048</identifier><datestamp>2009-06-24T02:34:28Z</datestamp><setSpec>hdl_2309_58475</setSpec></header><metadata><meta xmlns="http://ju.nii.ac.jp/junii2" xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://ju.nii.ac.jp/junii2 http://www.nii.ac.jp/irp/info/junii2.xsd"><title>中国農村義務教育の現状と課題に関する基礎的研究 : 東北部農村地区での中学生高退学率現象の調査結果に基づいて</title>
+<creator>展, 偉静</creator>
+<creator>展, 偉静(教育学専攻教育方法論講座)</creator>
+<subject>ETYP:教育関連論文</subject><type>学位論文(Thesis)</type><NIItype>Thesis or Dissertation</NIItype><type>text</type><format>application/pdf</format><URI>http://hdl.handle.net/2309/97048</URI><fullTextURL>http://ir.u-gakugei.ac.jp/bitstream/2309/97048/1/11712.pdf</fullTextURL><language>jpn</language><textversion>publisher</textversion>
+</meta></metadata></record>
+</ListRecords></OAI-PMH>
