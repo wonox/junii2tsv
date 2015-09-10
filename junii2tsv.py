@@ -6,7 +6,6 @@
 # https://hermes-ir.lib.hit-u.ac.jp/rs-oai/request?verb=ListRecords&metadataPrefix=junii2&set=hdl_10086_26686
 from xml.dom.minidom import parse
 import csv
-from sys import getsizeof
 
 def writeToCSV(myLibrary):
     csvfile = open('output.csv', 'wb')
